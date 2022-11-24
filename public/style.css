@@ -1,0 +1,44 @@
+.main{
+	padding:20px;
+	
+	box-shadow: 7px 7px 7px 7px  #75edf8;
+	
+	
+}
+.container{
+	border-radius:50% ;
+}
+.main h1{
+	font-size: 40px;
+	text-align:center;
+	
+	
+}
+input,textarea,select{
+	
+	width: 100%;
+	font-size: 20px;
+	padding: 12px 20px;
+	margin: 8px 0;
+	border: none;
+	border: 2px solid #9ff8f8;
+}
+.sign{
+	color:white;
+}
+input[type=submit] {
+	
+	width: 100%;
+	background:   #8bcbff;
+	box-shadow: 2px 2px 2px 2px #75edf8;
+	border: 2px solid rgb(173, 212, 254);
+	color: white;
+	padding: 16px 32px;
+	margin: 4px 2px;
+	border-radius: 10px; 
+	-webkit-border:21px 2px 2px 2px solid   #75edf8;
+	-moz-border:21px 2px 2px 2px solid   #75edf8;
+}
+body{
+	background: #8bcbff;
+}
